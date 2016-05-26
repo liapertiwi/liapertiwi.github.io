@@ -13,7 +13,9 @@ image:
 Nama : Lia Pertiwi<br>
 Nim : 11353205897<br>
 Alamat : Perumahan Paradise<br>
-[uin](http://uin-suska.ac.id)
+Jurusan : Sistem Informasi<br>
+Fakultas : Sains dan Teknologi<br>
+
 
 
 
