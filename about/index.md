@@ -10,12 +10,13 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 ## Biodata
-Nama : Lia Pertiwi
-Nim : 11353205897
-Alamat : Perumahan Paradise
+Nama : Lia Pertiwi<br>
+Nim : 11353205897<br>
+Alamat : Perumahan Paradise<br>
 [uin](http://uin-suska.ac.id)
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+
+
 
 ## Minimal Mistakes is all about:
 
