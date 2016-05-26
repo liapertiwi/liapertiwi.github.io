@@ -27,7 +27,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Lia Pertiwi
+  name: liapertiwi
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
@@ -35,7 +35,7 @@ owner:
   twitter:  #username
   facebook: lia gemini #username
   google:
-    plus: lia #username
+    plus: liapertiwi #username
     analytics: 
     verify: 
     ad-client: 
