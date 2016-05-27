@@ -16,7 +16,7 @@ Alamat : Perumahan Paradise<br>
 Jurusan : Sistem Informasi<br>
 Fakultas : Sains dan Teknologi<br>
 [Uin Suska](http://uin-suska.ac.id)<br>
-[Sistem Informasi](sif.uin-suska.ac.id)<br>
+[Sistem Informasi](http://sif.uin-suska.ac.id)<br>
 <img src="/assets/IMG_20160502_125546.jpg">
 
 
