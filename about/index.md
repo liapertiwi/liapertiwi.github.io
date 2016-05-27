@@ -25,5 +25,6 @@ Fakultas : Sains dan Teknologi<br>
 ## About Me
 My name is Lia Pertiwi,i come form Indra Giri Hulu. I College on Uin Suska Riau,my major Sistem Informasi,i live in Perumahan Paradise. Place and date of birth 15 June 1996. My hobby is reading.
 Thankyou
-[Uin Suska](http://uin-suska.ac.id)
-[Sistem Informasi](http://sif.uin-suska.ac.id)
+
+[uin suska](http://uin-suska.ac.id)<br>
+[sistem informasi](http://sif.uin-suska.ac.id)<br>
