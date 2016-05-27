@@ -10,6 +10,8 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 ## Biodata
+[Uin Suska](http://uin-suska.ac.id)<br>
+[Sistem Informasi](sif.uin-suska.ac.id)<br>
 Nama : Lia Pertiwi<br>
 Nim : 11353205897<br>
 Alamat : Perumahan Paradise<br>
