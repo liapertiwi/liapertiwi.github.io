@@ -15,8 +15,6 @@ Nim : 11353205897<br>
 Alamat : Perumahan Paradise<br>
 Jurusan : Sistem Informasi<br>
 Fakultas : Sains dan Teknologi<br>
-[Uin Suska](http://uin-suska.ac.id)<br>
-[Sistem Informasi](http://sif.uin-suska.ac.id)<br>
 
 
 <img src="/assets/IMG_20160502_125546.jpg">
@@ -27,3 +25,5 @@ Fakultas : Sains dan Teknologi<br>
 ## About Me
 My name is Lia Pertiwi,i come form Indra Giri Hulu. I College on Uin Suska Riau,my major Sistem Informasi,i live in Perumahan Paradise. Place and date of birth 15 June 1996. My hobby is reading.
 Thankyou
+[Uin Suska](http://uin-suska.ac.id)
+[Sistem Informasi](http://sif.uin-suska.ac.id)
