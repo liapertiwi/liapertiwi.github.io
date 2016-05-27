@@ -33,3 +33,5 @@ My name is Lia Pertiwi,i come form Indra Giri Hulu. I College on Uin Suska Riau,
 Thankyou
 
 
+[uin suska](http://uin-suska.ac.id)<br>
+[sistem informasi](http://sif.uin-suska.ac.id)<br>
