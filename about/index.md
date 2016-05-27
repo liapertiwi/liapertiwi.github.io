@@ -9,6 +9,9 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+## Link
+[uin suska](http://uin-suska.ac.id)<br>
+[sistem informasi](http://sif.uin-suska.ac.id)<br>
 ## Biodata
 Nama : Lia Pertiwi<br>
 Nim : 11353205897<br>
